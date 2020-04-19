@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,qBAIE,QAAS,CACT,SAAU,CACV,eACF","file":"styles.4ee48f31.css","sourceRoot":"../src","sourcesContent":["html,\nbody,\ndiv,\ncanvas {\n  margin: 0;\n  padding: 0;\n  overflow: hidden;\n}\n"]}
